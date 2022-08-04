@@ -20,13 +20,3 @@ export default function Contact(props) {
         </div>
     )
 }
-
-/* 
-{
-    img: "./images/mr-whiskerson.png", 
-    name: "Mr. Whiskerson", 
-    phone: "(212) 555-1234", 
-    email: "mr.whiskaz@catnap.meow"
-}
-
-*/
